@@ -33,4 +33,4 @@
 
 ## Captura
 
-A imagem de referência será armazenada em `docs/imagens/dashboard-desktop.png`.
+A imagem de referência está armazenada em `docs/imagens/Dashboard - Desktop.png`.
