@@ -31,8 +31,7 @@ A primeira tela foi construída no Figma e contém:
 
 ### Captura da interface
 
-<!-- A imagem será adicionada em docs/imagens/dashboard-desktop.png. -->
-![Dashboard — Desktop](docs/imagens/dashboard-desktop.png)
+![Dashboard — Desktop](docs/imagens/Dashboard%20-%20Desktop.png)
 
 **Arquivo Figma:** `Prototipo_Projeto_Web`  
 **Página:** `01 — Discovery e Interface`  
@@ -45,7 +44,7 @@ transparencia-cidada/
 ├── README.md
 ├── docs/
 │   ├── imagens/
-│   │   └── dashboard-desktop.png
+│   │   └── Dashboard - Desktop.png
 │   ├── planejamento.md
 │   └── paginas.md
 ├── design/
