@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="780" viewBox="0 0 1400 780" role="img" aria-labelledby="title desc">
+<title id="title">Mapa visual das quatro telas do Transparência Cidadã</title>
+<desc id="desc">Resumo visual das telas Dashboard, Consultar, Comparar e Sobre do protótipo.</desc>
+<rect width="1400" height="780" fill="#f1f5f9"/>
+<rect width="1400" height="88" fill="#12304a"/>
+<text x="74" y="54" font-family="Inter,Arial,sans-serif" font-size="30" font-weight="700" fill="#fff">Transparência Cidadã</text>
+<text x="74" y="132" font-family="Inter,Arial,sans-serif" font-size="34" font-weight="700" fill="#12304a">Mapa das telas do protótipo</text>
+<text x="74" y="166" font-family="Inter,Arial,sans-serif" font-size="17" fill="#64748b">Quatro áreas de navegação • protótipo desktop no Figma</text>
+<g>
+<rect x="74" y="220" width="1252" height="112" rx="14" fill="#fff" stroke="#e2e8f0" stroke-width="2"/>
+<rect x="96" y="242" width="68" height="68" rx="12" fill="#17466a"/>
+<text x="130" y="285" font-family="Inter,Arial,sans-serif" font-size="24" font-weight="700" fill="#fff" text-anchor="middle">01</text>
+<text x="194" y="258" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="700" fill="#12304a">Início — Dashboard</text>
+<text x="194" y="295" font-family="Inter,Arial,sans-serif" font-size="15" fill="#475569">• Filtros básicos e pesquisa</text><text x="559" y="295" font-family="Inter,Arial,sans-serif" font-size="15" fill="#475569">• Tabela de investimentos</text><text x="924" y="295" font-family="Inter,Arial,sans-serif" font-size="15" fill="#475569">• Paginação dos resultados</text>
+<rect x="1114" y="247" width="185" height="32" rx="8" fill="#eaf1f7"/>
+<text x="1206" y="268" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="600" fill="#17466a" text-anchor="middle">Visão geral</text>
+</g><g>
+<rect x="74" y="355" width="1252" height="112" rx="14" fill="#fff" stroke="#e2e8f0" stroke-width="2"/>
+<rect x="96" y="377" width="68" height="68" rx="12" fill="#17466a"/>
+<text x="130" y="420" font-family="Inter,Arial,sans-serif" font-size="24" font-weight="700" fill="#fff" text-anchor="middle">02</text>
+<text x="194" y="393" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="700" fill="#12304a">Consultar investimentos</text>
+<text x="194" y="430" font-family="Inter,Arial,sans-serif" font-size="15" fill="#475569">• Seis critérios de filtro</text><text x="559" y="430" font-family="Inter,Arial,sans-serif" font-size="15" fill="#475569">• Pesquisa e tabela detalhada</text><text x="924" y="430" font-family="Inter,Arial,sans-serif" font-size="15" fill="#475569">• Paginação e estado vazio</text>
+<rect x="1114" y="382" width="185" height="32" rx="8" fill="#eaf1f7"/>
+<text x="1206" y="403" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="600" fill="#17466a" text-anchor="middle">Consulta detalhada</text>
+</g><g>
+<rect x="74" y="490" width="1252" height="112" rx="14" fill="#fff" stroke="#e2e8f0" stroke-width="2"/>
+<rect x="96" y="512" width="68" height="68" rx="12" fill="#17466a"/>
+<text x="130" y="555" font-family="Inter,Arial,sans-serif" font-size="24" font-weight="700" fill="#fff" text-anchor="middle">03</text>
+<text x="194" y="528" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="700" fill="#12304a">Comparar investimentos</text>
+<text x="194" y="565" font-family="Inter,Arial,sans-serif" font-size="15" fill="#475569">• GDF × Governo Federal no DF</text><text x="559" y="565" font-family="Inter,Arial,sans-serif" font-size="15" fill="#475569">• Indicadores e áreas de gráficos</text><text x="924" y="565" font-family="Inter,Arial,sans-serif" font-size="15" fill="#475569">• Tabela comparativa</text>
+<rect x="1114" y="517" width="185" height="32" rx="8" fill="#eaf1f7"/>
+<text x="1206" y="538" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="600" fill="#17466a" text-anchor="middle">Análise comparativa</text>
+</g><g>
+<rect x="74" y="625" width="1252" height="112" rx="14" fill="#fff" stroke="#e2e8f0" stroke-width="2"/>
+<rect x="96" y="647" width="68" height="68" rx="12" fill="#17466a"/>
+<text x="130" y="690" font-family="Inter,Arial,sans-serif" font-size="24" font-weight="700" fill="#fff" text-anchor="middle">04</text>
+<text x="194" y="663" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="700" fill="#12304a">Sobre e metodologia</text>
+<text x="194" y="700" font-family="Inter,Arial,sans-serif" font-size="15" fill="#475569">• Propósito e escopo institucional</text><text x="559" y="700" font-family="Inter,Arial,sans-serif" font-size="15" fill="#475569">• Como funciona a consolidação</text><text x="924" y="700" font-family="Inter,Arial,sans-serif" font-size="15" fill="#475569">• Fontes e critérios metodológicos</text>
+<rect x="1114" y="652" width="185" height="32" rx="8" fill="#eaf1f7"/>
+<text x="1206" y="673" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="600" fill="#17466a" text-anchor="middle">Transparência metodológica</text>
+</g>
+<text x="74" y="760" font-family="Inter,Arial,sans-serif" font-size="13" fill="#64748b">Referência estrutural das telas — consulte o Figma para medidas, componentes e composição visual.</text>
+</svg>

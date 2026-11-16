@@ -2,37 +2,55 @@
 
 ## Objetivo
 
-Desenvolver uma interface pública para acompanhar investimentos do Governo do Distrito Federal e do Governo Federal realizados no Distrito Federal.
+Desenvolver uma plataforma pública para acompanhar investimentos do Governo do Distrito Federal e investimentos do Governo Federal realizados no Distrito Federal.
 
-## Escopo funcional planejado
+## Escopo funcional
 
 - Consultar investimentos por período;
 - Filtrar por órgão responsável;
 - Distinguir a esfera de governo (GDF ou Governo Federal);
-- Filtrar por tipo de investimento;
+- Filtrar por tipo de investimento, região administrativa e situação;
 - Pesquisar por palavra-chave;
 - Visualizar valores previstos e executados;
-- Consultar localidade e situação do investimento;
+- Consultar localidade e situação dos registros;
 - Navegar entre páginas de resultados;
-- Comparar registros em uma tela específica;
+- Comparar recortes de investimentos;
 - Consultar fontes e metodologia.
+
+## Situação das entregas
+
+| Entrega | Situação |
+|---|---|
+| Tela 01 — Dashboard desktop | Protótipo visual concluído |
+| Tela 02 — Consultar desktop | Protótipo visual concluído |
+| Tela 03 — Comparar desktop | Protótipo visual concluído |
+| Tela 04 — Sobre e metodologia desktop | Protótipo visual concluído |
+| Documentação inicial para programadores | Publicada |
+| Implementação da interface | A iniciar |
+| Definição e integração das fontes oficiais | A definir |
+| Validação dos dados e indicadores | Pendente |
+| Responsividade e acessibilidade | Pendente |
+| Testes funcionais | Pendente |
 
 ## Princípios de confiabilidade
 
 - Não apresentar dados fictícios como registros oficiais;
-- Identificar a fonte e a data de atualização dos dados;
+- Preservar a identificação da fonte e a data de atualização;
 - Distinguir valor previsto de valor executado;
 - Documentar critérios de inclusão, tratamento e atualização;
-- Indicar quando um campo não estiver disponível na fonte.
+- Indicar quando um campo não estiver disponível na fonte;
+- Não somar ou comparar valores com conceitos, períodos ou abrangências incompatíveis.
 
-## Entregas
+## Próximas etapas
 
-1. Protótipo visual das quatro telas;
-2. Implementação da interface;
-3. Integração com fontes de dados públicas;
-4. Testes de funcionamento, acessibilidade e responsividade;
-5. Documentação e entrega.
+1. Validar com os responsáveis técnicos o escopo e as fontes de dados;
+2. Definir o modelo de dados e os contratos de API;
+3. Implementar a estrutura comum de navegação e componentes;
+4. Implementar as telas e os estados de interface;
+5. Integrar e validar os dados oficiais;
+6. Realizar testes funcionais, responsivos e de acessibilidade;
+7. Documentar a implantação e a manutenção.
 
-## Situação atual
+## Referência visual
 
-O protótipo visual do Dashboard desktop está concluído. A implementação e a integração de dados ainda não foram iniciadas.
+O arquivo Figma **Prototipo_Projeto_Web**, página **01 — Discovery e Interface**, contém os quatro frames desktop. Consulte os links e detalhes em [design/prototipo-figma.md](../design/prototipo-figma.md).
